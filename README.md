@@ -1,5 +1,5 @@
 # CNN-Image-Classifier
-Image Classification Using Convolutional Neural Networks.
+Image Classification Using Convolutional Neural Networks in TensorFlow/Keras.
 
 ![Demo](https://github.com/saulventura/Airline-Passenger-Satisfaction/blob/master/demo.gif)
 
